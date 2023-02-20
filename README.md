@@ -5,6 +5,8 @@ This repository is for showing how Git and GitHub work
 
 ## Introduccion
 
+Now we add somethings to make changes in this file and then commit for the git course ty.
+
 ## Desarrollo
 
 ## Conclusion 
