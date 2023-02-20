@@ -10,8 +10,7 @@ This repository is for showing how Git and GitHub work
 ## Conclusion 
 
 ## testing thigns
-dklasjdklas
-holaque talca holando 
-buena noite
 
-otra prueba 
+## Copyright 
+
+2014 Git.Training.
