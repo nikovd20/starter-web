@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Nicolas Valdivia 	lda.valdivia@gmail.com
 
 # THANKS
 
