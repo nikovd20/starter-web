@@ -3,11 +3,7 @@
 
 # TEAM
 
-<<<<<<< HEAD
-   Nicolas Valdivia 	lda.valdivia@gmail.com
-=======
     Nicolas Valdivia  lda.valdivia@gmail.com @nikovd_
->>>>>>> simple-changes
 
 # THANKS
 
